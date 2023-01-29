@@ -1,5 +1,5 @@
 # Live Project
-https://codesandbox.io/s/emoji-interpreter-tzypc4?file=/src/App.js
+https://codesandbox.io/s/emoji-interpreter-bgm52q
 
 # Tech Stack 
 1.ReactJS.
